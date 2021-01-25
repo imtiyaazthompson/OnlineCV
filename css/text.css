@@ -10,6 +10,10 @@
   font-size: 1em;
 }
 
+.small-medium {
+  font-size: 1.1em;
+}
+
 .medium {
   font-size: 2em;
 }
@@ -20,4 +24,16 @@
 
 .justify {
   text-align: justify;
+}
+
+.right {
+  text-align: right;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.pop-light {
+  text-shadow: 1px 1px gray;
 }
