@@ -7,9 +7,25 @@
 }
 
 .bg-pale-white {
-  background-color: rgb(239,235,216);
+  background-color: #F5F5DC;
 }
 
 .bg-halogen {
   background-color: rgb(255, 241, 224);
+}
+
+.bg-grey {
+  background-color: #606060FF;
+}
+
+.bg-lime {
+  background-color: #D6ED17FF;
+}
+
+.text-lime {
+  color: #D6ED17FF;
+}
+
+.text-grey {
+  color: #606060FF;
 }

@@ -1,5 +1,5 @@
 .header {
-  height: 250px;
+  height: 150px;
 }
 
 .banner {
@@ -7,5 +7,13 @@
 }
 
 .box-shadow {
-  box-shadow: -2px 2px;
+  box-shadow: -1px 1px black;
+}
+
+.box-shadow-lime {
+  box-shadow: -3px 3px 1px #D6ED17FF;
+}
+
+.vert {
+  border-left: 1px solid black;
 }

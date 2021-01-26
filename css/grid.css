@@ -20,7 +20,7 @@
   }
 
   .bottom-hat {
-    margin-bottom: 35px
+    margin-bottom: 20px
   }
 
   .fill-height {
@@ -47,6 +47,13 @@
     height: 25px;
   }
 
+  .no-pad {
+    padding: 0;
+  }
+
+  .small-pad {
+    padding: 8px;
+  }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .col-m-1 { width: 5%; }
