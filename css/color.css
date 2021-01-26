@@ -15,17 +15,17 @@
 }
 
 .bg-grey {
-  background-color: #505050;
+  background-color: rgb(80,80,80);
 }
 
 .bg-lime {
-  background-color: #BFFF00;
+  background-color: rgb(191, 255, 0);
 }
 
 .text-lime {
-  color:#BFFF00;
+  color: rgb(191, 255, 0);
 }
 
 .text-grey {
-  color: #505050;
+  color: rgb(80,80,80);
 }
